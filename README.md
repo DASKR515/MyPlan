@@ -4,6 +4,6 @@
 
 - [X] Lua {5.x)
 - [ ] Lux --package 
-- [X] luajit-anima-toolkit --
+- [] luajit-anima-toolkit --
 - [X] 
 
