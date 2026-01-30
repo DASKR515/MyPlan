@@ -22,7 +22,7 @@ This plan is designed to master Lua-based technologies, toolkits, and runtimes t
 
 ### Core Languages & Runtimes
 - [x] **Lua 5.x**
-- [x] **Nelua**
+- [x] **Nelua** [Cube-nelua-not-C](https://github.com/DASKR515/cube-nelua-not-c)
 - [ ] **LuaJIT**
 - [ ] **Fennel (Lua Lisp)**
 - [ ] **PlutoLang (Lua-based)**
