@@ -4,6 +4,8 @@
 
 - [X] Lua {5.x)
 - [ ] Lux --package 
-- [] luajit-anima-toolkit --
-- [X] 
+- [] Luajit-anima-toolkit --
+- [X] Nelua
+- [] ffi --libC-load
+
 
