@@ -23,14 +23,14 @@ This plan is designed to master Lua-based technologies, toolkits, and runtimes t
 ### Core Languages & Runtimes
 - [x] **Lua 5.x**
 - [x] **Nelua** [Cube-nelua-not-C](https://github.com/DASKR515/cube-nelua-not-c)
-- [ ] **LuaJIT**
+- [ ] **LuaJIT** [Luna-eye](https://github.com/DASKR515/luna-eye)
 - [ ] **Fennel (Lua Lisp)**
 - [ ] **PlutoLang (Lua-based)**
 
 ### Libraries & Ecosystem
 - [ ] **LuaRocks (tree-based installs)**
 - [ ] **LPeg**
-- [ ] **FFI**
+- [ ] **FFI** [Luna-eye](https://github.com/DASKR515/luna-eye)
 - [ ] **Luajit-LGI**
 - [ ] **Luvit / Lit / Luv**
 - [ ] **Lux (package system)**
